@@ -1,5 +1,5 @@
-# To Install the Node Modules yarn
-# To Start the Application yarn run dev
+# To Install the node_modules: yarn
+# To Start the Application: yarn run dev
 
 
 # simple-crud-react-with-api
