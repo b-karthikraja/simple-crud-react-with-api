@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "simple-crud-reactjs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
